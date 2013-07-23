@@ -1,0 +1,42 @@
+.block_messageteacher ul {
+    list-style:none;
+    margin: 0;
+}
+
+.block_messageteacher ul li {
+    background-color: #ddd;
+    border-radius: 5px 5px 5px 5px;
+    display: list-item;
+    margin-top: 10px;
+    padding: 7px;
+}
+
+.block_messageteacher li a span {
+    vertical-align: top;
+    float: right;
+    width: 95px;
+}
+
+
+.block.block_messageteacher .content .userpicture {
+    height: 50px;
+    width: 50px;
+    background-color: #e6e6e6;
+}
+
+.block_messageteacher .btn {
+    background: none repeat scroll 0 0 #E3E3E3;
+    border: 1px solid #BBBBBB;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 0 1px 1px #F6F6F6 inset;
+    color: #333333;
+    font: bold 12px/1 "helvetica neue",helvetica,arial,sans-serif;
+    padding: 8px 5px 9px;
+    text-align: center;
+    text-shadow: 0 1px 0 #FFFFFF;
+    width: 150px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
