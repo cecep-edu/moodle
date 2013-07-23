@@ -1,0 +1,94 @@
+
+.block .header h2, .section-modchooser-text, .maincalendar .header {
+    color: white;
+    font-weight: bold;
+}
+
+
+h1.main, h2.main, h3.main, h4.main, h5.main, h6.main {
+    width: 100%;
+    display: block; 
+    float: left;
+}
+
+#defaultmessageoutputs, .mform {
+    display: block; 
+    float: left;
+}
+
+.headingblock, h2.main a, h2.main a:hover, div.region-content .footer a {
+    color: white;
+}
+
+.path-course-view .weeks .content, .path-course-view .topics .content, .path-course-view .weeks .section, .path-course-view .topics .section {
+    display: inline-table;
+}
+
+.course-content .section {
+    width: 100% !important;
+}
+
+.course-content ul.weeks li.section .content {
+    width: 80%;
+}
+
+.coursebox .content .teachers, .coursebox .content .coursecat, .coursebox .content .summary, .coursebox .content .courseimage, .coursebox .content .coursefile, .coursebox.remotecoursebox .remotecourseinfo {
+    width: 95%;
+}
+
+.forumpost .header, table .header {
+    padding-bottom: 0px;
+    background-color: #eee;
+    color: white;
+}
+
+.main, .second, .third, .form-submit #submit {
+    text-align: left;
+}
+
+.mod-indent-1 {
+    margin-left: 0px;
+}
+
+.section-modchooser-text {
+    color: #1B2656;
+}
+
+.hidden {
+    display: block;
+}
+
+.course-content ul.topics li.section {
+    width: 100%;
+}
+
+.sitetopic .section .activity .commands, .course-content .section .activity .commands {
+    float: right;
+}
+
+.head_content .main_nav {
+    display: none;
+}
+
+.block_myprofile .content {
+    text-align: center;
+}
+
+.mform .collapsible-actions {
+    display: block;
+}
+
+/*
+.no-overflow {
+    float: left;
+}
+*/
+
+td.header {
+    width: 14% !important;
+}
+
+.block_editablecontenthtml ul {
+    list-style: inside;
+}
+

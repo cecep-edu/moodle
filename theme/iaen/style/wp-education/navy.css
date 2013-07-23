@@ -1,0 +1,101 @@
+/*-----------------------------------------------------------------------------------*/
+/* Navy Skin
+/*-----------------------------------------------------------------------------------*/
+
+/* MAIN COLOR */
+.container a,
+.container .widget.tip a,
+.container .user_info .profile .info h1,
+.sidebar .widget a,
+.sidebar .widget.subscribe .description span,
+.sidebar .widget.side_nav ul li ul li a:hover,
+.sidebar .widget.side_nav ul li ul li a.active,
+.sidebar .widget.login span,
+.sidebar .widget.login div.user h1,
+.sidebar .widget.login .nav li a:hover,
+.sidebar .widget.subscribed_posts ul li a:hover,
+.sidebar .widget.filebox li.folder,
+.sidebar .widget.filebox li.file a:hover,
+.content .feed .post a:hover,
+.content .feed .event span.place span,
+.content .post .post-head .info h1,
+.content .post .post-head .social a:hover,
+.content .new_comment form .comment-form-author label,
+.content .new_comment form .comment-form-email label,
+.content .new_comment form .comment-form-url label,
+.content .new_comment form .comment-form-comment label,
+.content .comments .comment span.title strong,
+.content .gallery_folder .info span.counter,
+.content .back_albums span.counter,
+.post_block .block .info span,
+.table .crow .lecture p.lect,
+.table .crow .lecture p.edit,
+.content .wall .post a.title:hover,
+.post_block .block .block-content h1:hover,
+.content .gallery_folder a.album_name:hover,
+.content .apply form .form-content .field p,
+.footer_nav div > ul > li > ul > li > a,
+.content .featured .featured_post span,
+.modal form .details p,
+.ui-tabs .ui-tabs-nav li.ui-tabs-active a,
+.ui-tabs .ui-tabs-nav li.ui-tabs-active a:hover,
+.content .vzforms_ajax label,
+.container .widget.widget_calendar table th,
+.sidebar .widget.side_nav a:hover,
+.sidebar .widget.widget_categories a:hover,
+.container .widget.popular > div ul li a:hover,
+.content .staff .about a:hover,
+.sidebar .widget.hardcoded_contact .information label,
+.bk-content a { color: #1b2656; }
+
+.shortcode.heading h1,
+.shortcode.heading h2,
+.shortcode.heading h3,
+.shortcode.heading h4,
+.shortcode.heading h5 { color: #1b2656 !important; }
+
+.header,
+.main,
+.widget.apply,
+.container .user_info,
+.container .user_info .profile a.view,
+.sidebar .widget.path,
+.block-pagination a:hover,
+.block-pagination a.active,
+.footer_columns,
+.ui-tabs .ui-tabs-nav,
+.ui-accordion .ui-accordion-header,
+#lightboxOverlay, 
+.form-submit #submit,
+.container .widget.widget_tag_cloud .tagcloud a:hover,
+.content .staff .about .icons a:hover  { background-color: #1b2656; }
+
+/* HEADER */
+.header h4 { color: #445395; }
+
+.head_content .head_social .box,
+.head_content .head_social span.border,
+.header hr { background-color: #1a2e84; }
+
+/* CONTENT */
+.container a:hover { color: #2640b1; }
+
+.main,
+.block-pagination a:hover,
+.block-pagination a.active { border-color: #0f1d5c; }
+.main:hover { background-color: #132678; }
+
+.sidebar .widget.apply ul li { border-color: #13277e; }
+
+/* FOOTER */
+.footer_columns .twitter li,
+.footer_columns .contact li { border-bottom: 1px dotted #0a1b67; }
+.footer .footer_nav { border-color: #071656; }
+
+.footer,
+.footer_columns .gallery a,
+.footer_nav { background-color: #0d1f70; }
+.footer_columns { border-color: #0e2483; }
+
+.footer .footer_nav ul.sub-menu li a,
+.footer_columns .twitter li { color: #4d5da4; }
