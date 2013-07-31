@@ -223,22 +223,22 @@ a:focus {
 
 @font-face {
     font-family: 'RobotoRegular';
-    src: url('/moodle/theme/iaen/font/roboto/Roboto-Regular-webfont.eot');
-    src: url('/moodle/theme/iaen/font/roboto/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/moodle/theme/iaen/font/roboto/Roboto-Regular-webfont.woff') format('woff'),
-         url('/moodle/theme/iaen/font/roboto/Roboto-Regular-webfont.ttf') format('truetype'),
-         url('/moodle/theme/iaen/font/roboto/Roboto-Regular-webfont.svg#RobotoRegular') format('svg');
+    src: url('/theme/iaen/font/roboto/Roboto-Regular-webfont.eot');
+    src: url('/theme/iaen/font/roboto/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/theme/iaen/font/roboto/Roboto-Regular-webfont.woff') format('woff'),
+         url('/theme/iaen/font/roboto/Roboto-Regular-webfont.ttf') format('truetype'),
+         url('/theme/iaen/font/roboto/Roboto-Regular-webfont.svg#RobotoRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'RobotoBold';
-    src: url('/moodle/theme/iaen/font/roboto/Roboto-Bold-webfont.eot');
-    src: url('/moodle/theme/iaen/font/roboto/Roboto-Bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/moodle/theme/iaen/font/roboto/Roboto-Bold-webfont.woff') format('woff'),
-         url('/moodle/theme/iaen/font/roboto/Roboto-Bold-webfont.ttf') format('truetype'),
-         url('/moodle/theme/iaen/font/roboto/Roboto-Bold-webfont.svg#RobotoBold') format('svg');
+    src: url('/theme/iaen/font/roboto/Roboto-Bold-webfont.eot');
+    src: url('/theme/iaen/font/roboto/Roboto-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/theme/iaen/font/roboto/Roboto-Bold-webfont.woff') format('woff'),
+         url('/theme/iaen/font/roboto/Roboto-Bold-webfont.ttf') format('truetype'),
+         url('/theme/iaen/font/roboto/Roboto-Bold-webfont.svg#RobotoBold') format('svg');
     font-weight: normal;
     font-style: normal;
 }

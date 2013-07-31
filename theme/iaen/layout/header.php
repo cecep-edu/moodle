@@ -4,9 +4,9 @@
     <hr>
     <div class="head_content container_12">
         <div class="alignleft grid_4 top_nav">
-        <a class="alignleft" href="/moodle">
-                <img style="margin-top:-20px; margin-bottom: -90px;" class="alignleft" src="http://beta.iaen.edu.ec/wordpress/wordpress/wp-content/uploads/2013/07/logo-virtual-small.png">
-                        </a>
+		<a class="alignleft" href="/">
+			<img style="margin-top:-20px; margin-bottom: -90px;" class="alignleft" src="http://www.iaen.edu.ec/wordpress/wordpress/wp-content/uploads/2013/07/logo-virtual-small.png">
+		</a>
         </div>
         <div class="head_social grid_4 alignleft">
             <span class="alignleft"> Social </span>
@@ -20,32 +20,16 @@
                         <a class="yt" href="http://www.youtube.com/user/IAENTV?feature=watch"> </a>
                 </div>
                         <div class="box alignleft">
-                        <a class="rss" href="http://beta.iaen.edu.ec/feed/"> </a>
+                        <a class="rss" href="http://www.iaen.edu.ec/feed/"> </a>
                 </div>
                 </div>
             <div class="top_nav grid_4 alignleft">
                 <ul id="menu-top-menu" class="alignright">
-                    <li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a href="http://beta.iaen.edu.ec">Inicio</a></li>
-                    <li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="http://beta.iaen.edu.ec/contacto/">Contacto</a></li>
+                    <li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a href="http://www.iaen.edu.ec">Inicio</a></li>
                 </ul>
             </div>
             <div class="clear"></div>
-<!--
-        <div class="grid_12">
 
-<div class="head_logo grid_4 ">
-        <a class="alignleft" href="http://beta.iaen.edu.ec/wordpress">
-                <img class="alignleft" src="http://beta.iaen.edu.ec/wordpress/wordpress/wp-content/uploads/2013/07/logo1.jpg">
-                        </a>
-
-                <h1 class="alignleft"> Instituto de Altos Estudios Nacionales </h1><br>
-                <h4 class="alignleft"> La Universidad de post-grados </h4>
-
-                <div class="clear"></div>
-        </div>
-
-    </div>
--->
                 <!-- TOPNAV MOBILE BEGIN -->
                 <div class="topmenu_mobile"> Navigation
                     <select style="display:none" class="topmenu_mobile" onchange="window.location.href = ''+ $v(this).val() + '';">
