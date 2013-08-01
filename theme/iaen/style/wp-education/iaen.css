@@ -95,3 +95,7 @@ td.header {
 #assignform {
     clear: left; 
 }
+
+textarea {
+    visibility: visible;
+}
