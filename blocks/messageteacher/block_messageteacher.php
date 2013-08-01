@@ -135,7 +135,7 @@ class block_messageteacher extends block_base {
                 $button = html_writer::tag('a', "Enviar mensaje", array('href' => $url, 'class' => 'btn'));
                 $items[] = html_writer::tag('a', $picture.$name.$button, array('href' => $url));
             }
-            $items[] = get_people(2, "<b>Soporte Técnico</b>", "http://beta.inscripciones.iaen.edu.ec/moodle/theme/image.php?theme=iaen&component=core&image=i%2Fsettings");
+            $items[] = get_people(2, "<b>Soporte Técnico</b>", "http://virtual.iaen.edu.ec/theme/image.php?theme=iaen&component=core&image=i%2Fsettings");
 
             $this->content->text = html_writer::alist($items);
         }
