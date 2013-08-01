@@ -92,3 +92,6 @@ td.header {
     list-style: inside;
 }
 
+#assignform {
+    clear: left; 
+}
