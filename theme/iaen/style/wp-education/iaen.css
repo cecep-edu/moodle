@@ -103,3 +103,23 @@ textarea {
 #core-cache-plugin-summaries table, #core-cache-store-summaries table, #core-cache-lock-summary table, #core-cache-definition-summaries table, #core-cache-mode-mappings table {
    clear: right;
 }
+
+
+.performanceinfo {text-align:center;margin:10px 20%;}
+.performanceinfo span {display:block;}
+.validators {margin-top:40px;padding-top:5px;border-top: 1px dotted gray;}
+.validators ul {margin:0px;padding:0px;list-style-type:none;}
+.validators ul li {display:inline;margin-right:10px;margin-left:10px;}
+
+.performanceinfo .cachesused {margin-top:1em;}
+.performanceinfo .cachesused .cache-stats-heading {font-weight:bold;display:block;}
+.performanceinfo .cachesused .cache-definition-stats {margin:0.3em;padding:0px;border:1px solid #999;display:inline-block;vertical-align:top;min-height:4em;color:#000;background-color:#eee;}
+.performanceinfo .cachesused .cache-definition-stats span {padding-left:0.5em;padding-right:0.5em;display:block;}
+.performanceinfo .cachesused .cache-definition-stats .cache-definition-stats-heading {background-color:#eee;}
+.performanceinfo .cachesused .cache-store-stats {text-indent: 1em;}
+.performanceinfo .cachesused .cache-store-stats.nohits {background-color:#ffd3d9;}
+.performanceinfo .cachesused .cache-store-stats.lowhits {background-color:#f3f2aa;}
+.performanceinfo .cachesused .cache-store-stats.hihits {background-color:#e7f1c3;}
+.performanceinfo .cachesused .cache-total-stats {display:block;font-weight:bold;margin-top:0.3em;}
+
+
