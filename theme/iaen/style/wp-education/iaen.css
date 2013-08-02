@@ -99,3 +99,7 @@ td.header {
 textarea {
     visibility: visible;
 }
+
+#core-cache-plugin-summaries table, #core-cache-store-summaries table, #core-cache-lock-summary table, #core-cache-definition-summaries table, #core-cache-mode-mappings table {
+   clear: right;
+}
