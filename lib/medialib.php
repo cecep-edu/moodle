@@ -694,7 +694,7 @@ class core_media_player_flv extends core_media_player {
         // We can not use standard JS init because this may be cached.
         $output .= html_writer::script(js_writer::function_call(
                 'M.util.add_video_player', array($id, addslashes_js($url->out(false)),
-                $width, $height, $autosize)));
+                $width, $height, false)));
         return $output;
     }
 
