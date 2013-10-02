@@ -122,4 +122,17 @@ textarea {
 .performanceinfo .cachesused .cache-store-stats.hihits {background-color:#e7f1c3;}
 .performanceinfo .cachesused .cache-total-stats {display:block;font-weight:bold;margin-top:0.3em;}
 
+.generalbox .no-overflow { 
+  float:left;
+}
 
+
+#region-main ul {    
+	list-style: none outside disc;
+	margin-left: 2em;
+	padding: inherit;
+}
+
+#region-main p {    
+	margin-bottom: 1em;
+}
